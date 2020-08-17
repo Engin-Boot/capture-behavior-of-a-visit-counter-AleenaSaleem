@@ -12,7 +12,7 @@
   
   ### Then
   
-  Based on number of patient-cards sensed, sensor reports it.
+  Based on number of different patient-cards sensed, sensor reports it.
   
 
 ## Scenario: Compute parking slots to reserve for visiting specialists
