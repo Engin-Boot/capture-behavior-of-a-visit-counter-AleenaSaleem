@@ -12,6 +12,6 @@
 
 ### Given: An active sensor that can sense incoming and outgoing vehicles
 
-### When: There is a vehicle entry, a parking slot is allocated(if >5 are available)
+### When: a vehicle enters, sensor alloacates a parking slot(if >5 are available)
 
 ### Then: Among the five slots left unfilled, reserve one for visiting specialist
