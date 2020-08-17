@@ -1,13 +1,17 @@
 # Visit-counter for a Facilities Manager
 
-Scenario: Report visitor trends during a week of operation
+## Scenario: Report visitor trends during a week of operation
 
-  Given
-  When
-  Then
+### Given: An active sensor that diffferentiates between patient-card and visitor-card
 
-Scenario: Alert when seating capacity is full
+### When: There are entries, sensor records the footfall
 
-  Given
-  When
-  Then
+### Then: system reports per day footfall - visitor footfall of a week
+
+## Scenario: Alert when seating capacity is full
+
+### Given: An active sensor which diffferentiates between patient-cards and visitor-cards
+
+### When: Number of  visitor cards issued equals seating capacity
+
+### Then: system alerts the operator about full seating space
