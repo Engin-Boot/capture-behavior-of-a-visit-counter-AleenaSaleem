@@ -2,7 +2,7 @@
 
 ## Scenario: Report visitor trends during a week of operation
 
-### Given: An active sensor that diffferentiates between patient-card and visitor-card
+### Given: An active sensor that differentiates between patient-card and visitor-card
 
 ### When: There are entries, sensor records the footfall
 
@@ -10,7 +10,7 @@
 
 ## Scenario: Alert when seating capacity is full
 
-### Given: An active sensor which diffferentiates between patient-cards and visitor-cards
+### Given: An active sensor which differentiates between patient-cards and visitor-cards
 
 ### When: Number of  visitor cards issued equals seating capacity
 
