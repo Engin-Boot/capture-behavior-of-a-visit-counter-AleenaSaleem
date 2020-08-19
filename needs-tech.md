@@ -10,7 +10,7 @@
 
 ## Scenario: Reconcile counts if the sensor is offline for a while
 
-### Given: An active sensor connected to central controller
+### Given: An active sensor connected to central controller system
 
 ### When: Server comes back online from offline state
 
