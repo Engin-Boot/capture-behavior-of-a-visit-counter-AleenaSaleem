@@ -6,7 +6,7 @@
 
 ### When: There are entries, sensor records the footfall
 
-### Then: system reports per day footfall - patient footfall of a week
+### Then: system reports total footfall - patient footfall of a week
 
 ## Scenario: Alert when seating capacity is full
 
