@@ -14,4 +14,4 @@
 
 ### When: Server comes back online from offline state
 
-### Then: Aggregate the manual log and latest server log and feed to the system
+### Then: Aggregate the manual log count and latest server log and feed to controller
